@@ -3,6 +3,12 @@
 ### 🚀 Overview
 
 The main goal of this project is to understand how Spring Boot automatically manages dependencies and injects components using interfaces and implementations.
+### 👩‍💻 Author
+Mariya Sharli P
+
+💼 Java Backend Developer
+
+🔗 https://www.linkedin.com/in/mariya-sharli-p
 
 It includes two mini modules:
 
